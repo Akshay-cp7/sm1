@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "166202571234",
+    "firebase_url": "https://smartliving-4b210-default-rtdb.firebaseio.com",
+    "project_id": "smartliving-4b210",
+    "storage_bucket": "smartliving-4b210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166202571234:android:f20683c1cb4277f2e321bb",
+        "android_client_info": {
+          "package_name": "com.arzdrz.sml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgnikPjBEUPA3zvP7tvEXJ9nqT4Q6V18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166202571234:android:58a6ed3aac859fd3e321bb",
+        "android_client_info": {
+          "package_name": "com.example.sm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgnikPjBEUPA3zvP7tvEXJ9nqT4Q6V18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
